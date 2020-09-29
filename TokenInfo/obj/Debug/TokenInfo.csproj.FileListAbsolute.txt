@@ -1,0 +1,13 @@
+C:\Users\ethan\source\repos\TokenInfo\TokenInfo\bin\Debug\TokenInfo.exe.config
+C:\Users\ethan\source\repos\TokenInfo\TokenInfo\bin\Debug\TokenInfo.exe
+C:\Users\ethan\source\repos\TokenInfo\TokenInfo\bin\Debug\TokenInfo.pdb
+C:\Users\ethan\source\repos\TokenInfo\TokenInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ethan\source\repos\TokenInfo\TokenInfo\obj\Debug\TokenInfo.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\TokenInfo\TokenInfo\obj\Debug\TokenInfo.Main.resources
+C:\Users\ethan\source\repos\TokenInfo\TokenInfo\obj\Debug\TokenInfo.Properties.Resources.resources
+C:\Users\ethan\source\repos\TokenInfo\TokenInfo\obj\Debug\TokenInfo.csproj.GenerateResource.cache
+C:\Users\ethan\source\repos\TokenInfo\TokenInfo\obj\Debug\TokenInfo.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\TokenInfo\TokenInfo\obj\Debug\TokenInfo.csproj.Fody.CopyLocal.cache
+C:\Users\ethan\source\repos\TokenInfo\TokenInfo\obj\Debug\TokenInfo.csproj.CopyComplete
+C:\Users\ethan\source\repos\TokenInfo\TokenInfo\obj\Debug\TokenInfo.exe
+C:\Users\ethan\source\repos\TokenInfo\TokenInfo\obj\Debug\TokenInfo.pdb
