@@ -1,4 +1,6 @@
 # tokeninfo
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Shows information on a list of Discord tokens like email, username, discriminator, profile picture, id, etc. as well as an easy way to copy the information.
 
 Notes:
